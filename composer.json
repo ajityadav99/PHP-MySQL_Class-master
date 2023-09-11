@@ -1,0 +1,16 @@
+{
+    "name": "a1phanumeric/php-mysql-class",
+    "description": "This is a simple to use PHP MySQL class that easily bolts on to any existing PHP application, streamlining your MySQL interactions.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ed",
+            "email": "ed.rackham19@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "A1phanumeric\\": "" }
+    }
+}
